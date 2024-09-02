@@ -1,0 +1,1 @@
+This is the first project I'm doing for my Avion School course about HTML and CSS. A tribute page to someone I look up to. I'll appreciate any feedback on this project as I am just starting out on my journey!
